@@ -55,3 +55,4 @@ isPrime(n)
 isPerfectSq(n)
 isFib(n)
 
+print("Done")
